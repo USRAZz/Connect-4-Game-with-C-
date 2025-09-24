@@ -1,0 +1,9 @@
+﻿  Connect_4_Game.cpp
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(101,24): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(101,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(101,30): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(101,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(352,17): warning C4129: ' ': unrecognized character escape sequence
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(354,16): warning C4804: '>': unsafe use of type 'bool' in operation
+E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\Connect_4_Game.cpp(354,29): warning C4804: '<': unsafe use of type 'bool' in operation
+  Connect_4_Game.vcxproj -> E:\Yossra_aminFiles\projects of VS community\Connect_4_Game\x64\Debug\Connect_4_Game.exe
