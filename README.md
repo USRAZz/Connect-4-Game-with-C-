@@ -10,7 +10,6 @@ Features:
 - 7x7 Connect 4 grid.
 - Two game modes: play with a friend or against the computer.
 - AI opponent using decision-making logic .
-- Simple and user-friendly console interface.
 
 ---------------------------------------------------------------------------------------------
 
